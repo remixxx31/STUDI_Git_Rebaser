@@ -1,2 +1,2 @@
-Hello word\n
+Hello world\n
 
